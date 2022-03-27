@@ -1,0 +1,31 @@
+Screen Sizes:
+-> extra large (xl)
+-> large (lg)
+-> medium (md)
+-> small (sm)
+-> extra small (xs)
+
+----------------------------------------------
+-> there are 12 columns in a row
+
+---------------------------------------------
+-> Grid System
+    -> make website layout same on every screen
+    -> make website layout according to the screen sizes
+==============================================
+
+-> Margin m
+-> Padding p
+ mx -> x-axis (right and left)
+ my -> y-axis (top and bottom)
+
+
+Range 0 to 5
+left l
+right r
+top t
+bottom b
+
+-> m-4
+-> ml-4
+-> ml-md-4
